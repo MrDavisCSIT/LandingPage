@@ -13,6 +13,7 @@
       <h4 id="h4Subtitle"><i>Application Centre</i></h4>
       <br>
       <button type="button" class="btn btn-outline-light" onclick="window.location.href='./projects.php'">Projects</button>
+      <button type="button" class="btn btn-outline-light" onclick="window.location.href='./team.php'">Team</button>
 
       <div id="divServices" class="card-deck container-fluid service">
 
