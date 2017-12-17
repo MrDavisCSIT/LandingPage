@@ -24,7 +24,7 @@
             <p class="card-text">Access all of your personal files on our hosted file storage platform.</p>
           </div>
           <div class="card-footer">
-            <a target="_blank" href="https://drive.intelligencenotfound.com" class="btn btn-primary">Login</a>
+            <a href="https://ucs.intelligencenotfound.com/nextcloud/" class="btn btn-primary">Login</a>
           </div>
         </div>
 
@@ -36,7 +36,7 @@
             <p class="card-text">Complete work orders and manage Intelligence Not Found projects.</p>
           </div>
           <div class="card-footer">
-            <a target="_blank" href="https://team.intelligencenotfound.com" class="btn btn-primary">Login</a>
+            <a href="https://ucs.intelligencenotfound.com/openproject/" class="btn btn-primary">Login</a>
           </div>
         </div>
 
@@ -48,7 +48,7 @@
             <p class="card-text">Check your Intelligence Not Found email account.</p>
           </div>
           <div class="card-footer">
-            <a target="_blank" href="https://mail.intelligencenotfound.com" class="btn btn-primary">Login</a>
+            <a href="http://webmail.intelligencenotfound.com" class="btn btn-primary">Login</a>
           </div>
         </div>
 
@@ -58,7 +58,7 @@
     </div>
     <footer class="footer">
       <div class="container">
-        <span class="text-muted" style="color: white;">&copy; Intelligence Not Found, 2017.</span>
+        <span class="text-muted" style="color: white;">&copy; Intelligence Not Found 2017. Created by <a href="https://www.luketainton.co.uk">Luke Tainton,</a> part of the Intelligence Not Found team.</span>
       </div>
     </footer>
     <?php include 'scripts/footer.php' ?>
