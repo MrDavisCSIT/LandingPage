@@ -12,7 +12,7 @@
       <h1 id="h1Title">Intelligence Not Found</h1>
       <h4 id="h4Subtitle"><i>The Team</i></h4>
       <br>
-      <button type="button" class="btn btn-outline-light" onclick="window.location.href='./'">Applications</button>
+      <button type="button" class="btn btn-outline-light" onclick="window.location.href='./applications.php'">Applications</button>
       <button type="button" class="btn btn-outline-light" onclick="window.location.href='./projects.php'">Projects</button>
 
       <div id="divServices" class="card-deck container-fluid service">
