@@ -19,7 +19,7 @@
 
         <!-- Alexander Davis -->
         <div class="card" style="width: 20rem;">
-          <img class="card-img-top" src="img/team/alexanderedavis.png" alt="">
+          <img class="card-img-top" src="img/team/alexanderedavis.png" alt="Alexander Davis">
           <div class="card-body">
             <h4 class="card-title">Alexander Davis</h4>
             <p class="card-text">Lead Developer, Project Coordinator, PGCE Secondary Computer Science and IT Teacher Trainee, Christian, Uncle, Techician, Musican, 22...</p>
@@ -31,14 +31,25 @@
 
         <!-- Luke Tainton -->
         <div class="card" style="width: 20rem;">
-          <img class="card-img-top" src="img/team/luketainton.png" alt="">
+          <img class="card-img-top" src="img/team/luketainton.jpg" alt="Luke Tainton">
           <div class="card-body">
             <h4 class="card-title">Luke Tainton</h4>
-            <p class="card-text">Lead Developer, Project Coordinator, </p>
+            <p class="card-text">Lead Developer, Project Coordinator, Technical Director. </p>
           </div>
           <div class="card-footer">
             <a href="https://www.luketainton.co.uk" class="btn btn-primary">Website</a>
           </div>
+        </div>
+
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/team/lyalllyall.jpg" alt="Lyall Lyall">
+          <div class="card-body">
+            <h4 class="card-title">Lyall Lyall</h4>
+            <p class="card-text">Infrastructure Consultant</p>
+          </div>
+          <!-- <div class="card-footer">
+            <a href="https://www.luketainton.co.uk" class="btn btn-primary">Website</a>
+          </div> -->
         </div>
 
       </div> <!-- End Services Wrapper div -->
