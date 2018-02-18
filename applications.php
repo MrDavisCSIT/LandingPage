@@ -33,7 +33,7 @@
         <div class="card" style="width: 20rem;">
           <img class="card-img-top" src="img/services/nextcloud.png" alt="">
           <div class="card-body">
-            <h4 class="card-title">Nextcloud <span class="badge badge-pill badge-success">SAML</span></h4>
+            <h4 class="card-title">Nextcloud <span class="badge badge-secondary">SAML</span></h4>
             <p class="card-text">Access all of your personal files on our hosted file storage platform.</p>
           </div>
           <div class="card-footer">
@@ -41,23 +41,11 @@
           </div>
         </div>
 
-        <!-- OpenProject -->
-        <!-- <div class="card" style="width: 20rem;">
-          <img class="card-img-top" src="img/services/openproject.png" alt="">
-          <div class="card-body">
-            <h4 class="card-title">OpenProject</h4>
-            <p class="card-text">Complete work orders and manage Intelligence Not Found projects.</p>
-          </div>
-          <div class="card-footer">
-            <a href="https://project.intelligencenotfound.com" class="btn btn-primary">Login</a>
-          </div>
-        </div> -->
-
         <!-- Email -->
         <div class="card" style="width: 20rem;">
           <img class="card-img-top" src="img/services/zoho.png" alt="">
           <div class="card-body">
-            <h4 class="card-title">Zoho Mail <span class="badge badge-pill badge-success">SAML</span></h4>
+            <h4 class="card-title">Zoho Mail <span class="badge badge-secondary">SAML</span></h4>
             <p class="card-text">Check your Intelligence Not Found email account.</p>
           </div>
           <div class="card-footer">
