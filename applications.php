@@ -12,6 +12,7 @@
       <h1 id="h1Title">Intelligence Not Found</h1>
       <h4 id="h4Subtitle"><i>Application Centre</i></h4>
       <br>
+      <button type="button" class="btn btn-outline-light" style="background-color: white;" onclick="window.location.href='./'">Applications</button>
       <button type="button" class="btn btn-outline-light" onclick="window.location.href='./projects.php'">Projects</button>
       <button type="button" class="btn btn-outline-light" onclick="window.location.href='./team.php'">Team</button>
 

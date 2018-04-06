@@ -14,6 +14,7 @@
       <br>
       <button type="button" class="btn btn-outline-light" onclick="window.location.href='./applications.php'">Applications</button>
       <button type="button" class="btn btn-outline-light" onclick="window.location.href='./projects.php'">Projects</button>
+      <button type="button" class="btn btn-outline-light" style="background-color: white;" onclick="window.location.href='./'">Team</button>
 
       <div id="divServices" class="card-deck container-fluid service">
 
