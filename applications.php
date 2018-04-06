@@ -33,33 +33,20 @@
         <div class="card" style="width: 20rem;">
           <img class="card-img-top" src="img/services/nextcloud.png" alt="">
           <div class="card-body">
-            <h4 class="card-title">Nextcloud <span class="badge badge-secondary">SSO</span></h4>
+            <h4 class="card-title">Nextcloud <span class="badge badge-secondary">ADCM Cloud</span></h4>
             <p class="card-text">Access all of your personal files on our hosted file storage platform.</p>
           </div>
           <div class="card-footer">
-            <a href="https://drive.intelligencenotfound.com" class="btn btn-primary">Login</a>
+            <a href="https://www.adcm.cloud" class="btn btn-primary">Login</a>
           </div>
         </div>
-
-        <!-- Email -->
-        <div class="card" style="width: 20rem;">
-          <img class="card-img-top" src="img/services/zoho.png" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Zoho Mail <span class="badge badge-secondary">SSO</span></h4>
-            <p class="card-text">Check your Intelligence Not Found email account.</p>
-          </div>
-          <div class="card-footer">
-            <a href="http://webmail.intelligencenotfound.com" class="btn btn-primary">Login</a>
-          </div>
-        </div>
-
       </div> <!-- End Services Wrapper div -->
 
 
     </div>
     <footer class="footer">
       <div class="container">
-        <span class="text-muted" style="color: white;">&copy; Intelligence Not Found 2017. Created by <a href="https://www.luketainton.co.uk">Luke Tainton,</a> part of the Intelligence Not Found team.</span>
+        <span class="text-muted" style="color: white;">&copy; Intelligence Not Found 2018. Created by <a href="https://www.luketainton.co.uk">Luke Tainton,</a> part of the Intelligence Not Found team. | Powered by ADCM Cloud</span>
       </div>
     </footer>
     <?php include 'scripts/footer.php' ?>

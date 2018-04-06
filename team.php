@@ -25,7 +25,7 @@
             <p class="card-text">Lead Developer, Project Coordinator, PGCE Secondary Computer Science and IT Teacher Trainee, Christian, Uncle, Techician, Musican, 22...</p>
           </div>
           <div class="card-footer">
-            <a href="https://www.alexanderdavis.tech" class="btn btn-primary">Website</a>
+            <a href="https://www.alexedavis.com" class="btn btn-primary">Website</a>
           </div>
         </div>
 
@@ -45,18 +45,18 @@
           <img class="card-img-top" src="img/team/lyalllyall.jpg" alt="Lyall Lyall">
           <div class="card-body">
             <h4 class="card-title">Lyall Lyall</h4>
-            <p class="card-text">Infrastructure Consultant</p>
+            <p class="card-text">Code Monkey</p>
           </div>
-          <!-- <div class="card-footer">
-            <a href="https://www.luketainton.co.uk" class="btn btn-primary">Website</a>
-          </div> -->
+          <div class="card-footer">
+            <a href="https://www.alexanderdavis.tech" class="btn btn-primary">Website</a>
+          </div>
         </div>
 
       </div> <!-- End Services Wrapper div -->
     </div>
     <footer class="footer">
       <div class="container">
-        <span class="text-muted" style="color: white;">&copy; Intelligence Not Found 2017. Created by <a href="https://www.luketainton.co.uk">Luke Tainton,</a> part of the Intelligence Not Found team.</span>
+        <span class="text-muted" style="color: white;">&copy; Intelligence Not Found 2018. Created by <a href="https://www.luketainton.co.uk">Luke Tainton,</a> part of the Intelligence Not Found team. | Powered by ADCM Cloud</span>
       </div>
     </footer>
     <?php include 'scripts/footer.php' ?>
