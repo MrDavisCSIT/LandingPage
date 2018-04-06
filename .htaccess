@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^intelligencenotfound.com [NC]
+    RewriteCond %{HTTPS} on
+    RewriteRule ^(.*)$ https://www.intelligencenotfound.com/$1 [L,R=301,NC]
+</IfModule>
