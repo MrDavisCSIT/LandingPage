@@ -20,13 +20,73 @@
 
         <!-- Citation Needed -->
         <div class="card" style="width: 20rem;">
-          <img class="card-img-top" src="img/projects/citationneeded.png" alt="">
+          <img class="card-img-top" src="img/projects/citationneeded.png" alt="Citation Needed">
           <div class="card-body">
             <h4 class="card-title">Citation Needed</h4>
             <p class="card-text">Our version of RefME, customised for the BCU style of Harvard Referencing.</p>
           </div>
           <div class="card-footer">
-            <a href="https://citation-needed.net" class="btn btn-primary">Go</a>
+            <a href="https://github.com/IntelligenceNotFound/CitationNeeded" class="btn btn-primary">Source Code</a>
+          </div>
+        </div>
+
+        <!-- Exam Buff or Exam Bluff -->
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/projects/exambufforexambluff.png" alt="Exam Buff or Exam Bluff?">
+          <div class="card-body">
+            <h4 class="card-title">Exam Buff or Exam Bluff?</h4>
+            <p class="card-text">I need to help my students revise for their exams… How do I do this?! They need to revise how to code and revise the theory… Why make an app in the language they learn… They look at the source code and play the game.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://github.com/IntelligenceNotFound/BullHacks2.0-ExamBufforExamBluff" class="btn btn-primary">Source Code</a>
+          </div>
+        </div>
+
+        <!-- NewsPush -->
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/projects/newspush.png" alt="NewsPush">
+          <div class="card-body">
+            <h4 class="card-title">NewsPush</h4>
+            <p class="card-text">NewsPush is a concept service with the intent of sending news updates to people’s mobile phones by text.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://github.com/IntelligenceNotFound/HackTheMidlands2.0-NewsPush" class="btn btn-primary">Source Code</a>
+          </div>
+        </div>
+
+        <!-- Society+ -->
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/projects/societyplus.png" alt="Society+">
+          <div class="card-body">
+            <h4 class="card-title">Society+</h4>
+            <p class="card-text">Many students unions use a template for their websites which means that most of the time, these websites don’t work. Society+ allows not only students to sign up to societies, but also allows the society’s executive committee to manage membership, email and text society members and update information about the society.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://github.com/IntelligenceNotFound/BrumHack6.0-SocietyPlus" class="btn btn-primary">Source Code</a>
+          </div>
+        </div>
+
+        <!-- Sort.AI -->
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/projects/sortai.png" alt="Sort.AI">
+          <div class="card-body">
+            <h4 class="card-title">Sort.AI</h4>
+            <p class="card-text">Sort.AI is an Windows service concept that sorts your files automatically using the Google Natural Language API. While doing coursework, I noticed that my file system could be abit more organised. That's when my friend and I thought about using AI to organise our systems so we don’t have to. That’s where Sort.AI comes in, inspired from the winner of BrumHack 5.0 who used the Google Natural Language API.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://github.com/IntelligenceNotFound/BullHack1.0-Sort.AI" class="btn btn-primary">Source Code</a>
+          </div>
+        </div>
+
+        <!-- TaskMaster -->
+        <div class="card" style="width: 20rem;">
+          <img class="card-img-top" src="img/projects/taskmaster.jpg" alt="Task Master">
+          <div class="card-body">
+            <h4 class="card-title">Task Master</h4>
+            <p class="card-text">A creation of a business aimed task and project management system.</p>
+          </div>
+          <div class="card-footer">
+            <a href="https://github.com/IntelligenceNotFound/BrumHack5.0-TaskMaster" class="btn btn-primary">Source Code</a>
           </div>
         </div>
 
