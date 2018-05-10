@@ -54,7 +54,7 @@
           </div>
         </div>
 
-        <br>
+        <div class="clear"></div>
 
         <!-- Society+ -->
         <div class="card">

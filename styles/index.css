@@ -63,20 +63,11 @@ p#pCopyright {
   /* background-color: #f5f5f5; */
 }
 
-ul.projects {
-  list-style-type: none;  
-  width: 20rem;
-}
-
-ul.projects li {
-    float: left; 
-    display: inline;     
-}
-
 .clear { 
   clear: both; 
 }
 
 div.card {
   width: 40rem;
+  float: left;
 }
