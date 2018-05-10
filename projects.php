@@ -18,11 +18,8 @@
 
       <div id="divServices" class="card-deck container-fluid service">
 
-        <ul class="projects">
-
-        <li>
         <!-- Citation Needed -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/citationneeded.png" alt="Citation Needed">
           <div class="card-body">
             <h4 class="card-title">Citation Needed</h4>
@@ -32,11 +29,9 @@
             <a href="https://github.com/IntelligenceNotFound/CitationNeeded" class="btn btn-primary">Source Code</a>
           </div>
         </div>
-        </li>
 
-        <li>
         <!-- Exam Buff or Exam Bluff -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/exambufforexambluff.png" alt="Exam Buff or Exam Bluff?">
           <div class="card-body">
             <h4 class="card-title">Exam Buff or Exam Bluff?</h4>
@@ -46,11 +41,9 @@
             <a href="https://github.com/IntelligenceNotFound/BullHacks2.0-ExamBufforExamBluff" class="btn btn-primary">Source Code</a>
           </div>
         </div>
-        </li>
 
-        <li>
         <!-- NewsPush -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/newspush.png" alt="NewsPush">
           <div class="card-body">
             <h4 class="card-title">NewsPush</h4>
@@ -60,13 +53,11 @@
             <a href="https://github.com/IntelligenceNotFound/HackTheMidlands2.0-NewsPush" class="btn btn-primary">Source Code</a>
           </div>
         </div>
-        </li>
 
-        <li class="clear"></li>
+        <br>
 
-        <li>
         <!-- Society+ -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/societyplus.png" alt="Society+">
           <div class="card-body">
             <h4 class="card-title">Society+</h4>
@@ -76,11 +67,9 @@
             <a href="https://github.com/IntelligenceNotFound/BrumHack6.0-SocietyPlus" class="btn btn-primary">Source Code</a>
           </div>
         </div>
-        </li>
 
-        <li>
         <!-- Sort.AI -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/sortai.png" alt="Sort.AI">
           <div class="card-body">
             <h4 class="card-title">Sort.AI</h4>
@@ -90,11 +79,9 @@
             <a href="https://github.com/IntelligenceNotFound/BullHack1.0-Sort.AI" class="btn btn-primary">Source Code</a>
           </div>
         </div>
-        </li>
 
-        <li>
         <!-- TaskMaster -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/taskmaster.jpg" alt="Task Master">
           <div class="card-body">
             <h4 class="card-title">Task Master</h4>
@@ -104,11 +91,6 @@
             <a href="https://github.com/IntelligenceNotFound/BrumHack5.0-TaskMaster" class="btn btn-primary">Source Code</a>
           </div>
         </div>
-        </li>
-
-        <li class="clear"></li>
-
-        </ul>
 
       </div> <!-- End Services Wrapper div -->
 

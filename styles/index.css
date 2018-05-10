@@ -76,3 +76,7 @@ ul.projects li {
 .clear { 
   clear: both; 
 }
+
+div.card {
+  width: 40rem;
+}
