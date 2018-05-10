@@ -62,3 +62,17 @@ p#pCopyright {
   line-height: 50px; /* Vertically center the text there */
   /* background-color: #f5f5f5; */
 }
+
+ul.projects {
+  list-style-type: none;  
+  width: 20rem;
+}
+
+ul.projects li {
+    float: left; 
+    display: inline;     
+}
+
+.clear { 
+  clear: both; 
+}
