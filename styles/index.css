@@ -30,12 +30,6 @@ div.service {
   align-content: center;
 }
 
-div.card {
-  margin: 1%;
-  float: left;
-  max-width: 300px;
-}
-
 .card-img-top {
   object-fit: contain;
   max-width:  300px;
