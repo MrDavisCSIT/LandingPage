@@ -19,7 +19,7 @@
       <div id="divServices" class="card-deck container-fluid service">
 
         <!-- Citation Needed -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/citationneeded.png" alt="Citation Needed">
           <div class="card-body">
             <h4 class="card-title">Citation Needed</h4>
@@ -31,7 +31,7 @@
         </div>
 
         <!-- Exam Buff or Exam Bluff -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/exambufforexambluff.png" alt="Exam Buff or Exam Bluff?">
           <div class="card-body">
             <h4 class="card-title">Exam Buff or Exam Bluff?</h4>
@@ -43,7 +43,7 @@
         </div>
 
         <!-- NewsPush -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/newspush.png" alt="NewsPush">
           <div class="card-body">
             <h4 class="card-title">NewsPush</h4>
@@ -54,12 +54,14 @@
           </div>
         </div>
 
+        <div class="clear"></div>
+
         <!-- Society+ -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/societyplus.png" alt="Society+">
           <div class="card-body">
             <h4 class="card-title">Society+</h4>
-            <p class="card-text">Many students unions use a template for their websites which means that most of the time, these websites don’t work. Society+ allows not only students to sign up to societies, but also allows the society’s executive committee to manage membership, email and text society members and update information about the society.</p>
+            <p class="card-text">Student society management system.</p>
           </div>
           <div class="card-footer">
             <a href="https://github.com/IntelligenceNotFound/BrumHack6.0-SocietyPlus" class="btn btn-primary">Source Code</a>
@@ -67,11 +69,11 @@
         </div>
 
         <!-- Sort.AI -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/sortai.png" alt="Sort.AI">
           <div class="card-body">
             <h4 class="card-title">Sort.AI</h4>
-            <p class="card-text">Sort.AI is an Windows service concept that sorts your files automatically using the Google Natural Language API. While doing coursework, I noticed that my file system could be abit more organised. That's when my friend and I thought about using AI to organise our systems so we don’t have to. That’s where Sort.AI comes in, inspired from the winner of BrumHack 5.0 who used the Google Natural Language API.</p>
+            <p class="card-text">Sort.AI is an Windows service concept that sorts your files automatically using the Google Natural Language API.</p>
           </div>
           <div class="card-footer">
             <a href="https://github.com/IntelligenceNotFound/BullHack1.0-Sort.AI" class="btn btn-primary">Source Code</a>
@@ -79,7 +81,7 @@
         </div>
 
         <!-- TaskMaster -->
-        <div class="card" style="width: 20rem;">
+        <div class="card">
           <img class="card-img-top" src="img/projects/taskmaster.jpg" alt="Task Master">
           <div class="card-body">
             <h4 class="card-title">Task Master</h4>
